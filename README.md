@@ -1,20 +1,20 @@
-# Screendark
-Screen dimmer for Linux.
+# Screendark<br>
+Screen dimmer for Linux.<br>
 
-Works for KDE PLASMA 6+
-Tested on CachyOS
+Works for KDE PLASMA 6+<br>
+Tested on CachyOS<br>
 
 
-# Install instructions
-chmod +x ~/downloads/darkscreen.py
-sudo mv ~/Downloads/darkscreen.py /usr/local/bin/darkscreen
+# Install instructions<br>
+chmod +x ~/downloads/darkscreen.py<br>
+sudo mv ~/Downloads/darkscreen.py /usr/local/bin/darkscreen<br>
 
-sudo nano /usr/share/applications/darkscreen.desktop
-Paste this:
-[Desktop Entry]
-Type=Application
-Name=Darkscreen
-Comment=Screen dimmer overlay
-Exec=/usr/local/bin/darkscreen
-Icon=preferences-desktop-display
-Categories=Utility;
+sudo nano /usr/share/applications/darkscreen.desktop<br>
+Paste this: <br>
+[Desktop Entry]<br>
+Type=Application<br>
+Name=Darkscreen<br>
+Comment=Screen dimmer overlay<br>
+Exec=/usr/local/bin/darkscreen<br>
+Icon=preferences-desktop-display<br>
+Categories=Utility;<br>
