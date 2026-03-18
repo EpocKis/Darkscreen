@@ -16,7 +16,7 @@ Tested on CachyOS <br>
 
 
 # Install instructions <br>
-chmod +x ~/downloads/Darkscreen.py <br>
+chmod +x ~/Downloads/Darkscreen.py <br>
 sudo mv ~/Downloads/darkscreen.py /usr/local/bin/Darkscreen <br>
 
 sudo nano /usr/share/applications/Darkscreen.desktop <br>
